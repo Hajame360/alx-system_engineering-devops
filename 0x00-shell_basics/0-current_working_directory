@@ -1,1 +1,2 @@
-ECHO "$DIR-PATH" 
+ ECHO "$DIR_PATH" 
+^#!/bin/bash
